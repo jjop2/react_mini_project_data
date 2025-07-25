@@ -1,0 +1,17 @@
+[
+  {
+    "id": "lake-standard-room",
+    "name": "Lake Standard Room",
+    "price": 210000
+  },
+  {
+    "id": "lake-deluxe-room",
+    "name": "Lake Deluxe Room",
+    "price": 295000
+  },
+  {
+    "id": "lake-suite",
+    "name": "Lake Corner Suite",
+    "price": 390000
+  }
+]
