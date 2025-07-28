@@ -2,16 +2,19 @@
   {
     "id": "lake-standard-room",
     "name": "Lake Standard Room",
-    "price": 210000
+    "price": 210000,
+    "max": 2
   },
   {
     "id": "lake-deluxe-room",
     "name": "Lake Deluxe Room",
-    "price": 295000
+    "price": 295000,
+    "max": 2
   },
   {
     "id": "lake-suite",
     "name": "Lake Corner Suite",
-    "price": 390000
+    "price": 390000,
+    "max": 3
   }
 ]
