@@ -1,56 +1,53 @@
 [
   {
-    "id": "summer-lake-escape",
-    "title": "Summer Lake Escape",
-    "desc": "호숫가에서의 여름 하루를 위한 패키지",
+    "id": "lake-standard-summer-escape",
+    "title": "Lake Standard Summer Escape",
+    "desc": "호숫가에서의 여름 하루",
     "period": "2025-07-01 ~ 2025-08-31",
     "benefit": [
       "플로팅 데크 웰컴 칵테일 (2인)",
       "사우나 & 냉수욕 체험 (1회)",
-      "LIV 조식 (2인)"
+      "LIV 조식 포함 (2인)"
     ],
-    "roomType": [
-      "Lake Standard Room",
-      "Lake Deluxe Room"
-    ],
+    "roomType": "Lake Standard Room",
+    "price": 265000,
 
-    "summaryBenefit": "2박 이상 시 조식 포함 + 사우나 & 칵테일 혜택까지!",
+    "summaryBenefit": "조식 포함 + 사우나 & 칵테일 혜택까지!",
     "banner": "자연 속으로 뛰어드는 가장 시원한 방법"
   },
   {
-    "id": "liv-gourmet-stay",
-    "title": "LIV Gourmet Stay",
-    "desc": "한여름의 미식과 함께하는 하룻밤",
-    "period": "2025-07-10 ~ 2025-09-05",
-    "benefit": [
-      "LIV 여름 시그니처 디너 (2인)",
-      "허브 와인 (인당 1잔)",
-      "디저트 플래터 서비스"
-    ],
-    "roomType": [
-      "Lake Deluxe Room",
-      "Lake Corner Suite"
-    ],
-    
-    "summaryBenefit": "미식 디너 + 와인 + 디저트까지 모두 포함된 여름밤",
-    "banner": "엘비 송어와 허브, 한여름을 맛보다"
-  },
-  {
-    "id": "wellness-stay-package",
-    "title": "Wellness Stay Package",
-    "desc": "고요한 호수의 밤에 어울리는 깊은 휴식",
+    "id": "deluxe-wellness-stay",
+    "title": "Deluxe Wellness Stay",
+    "desc": "고요한 밤, 깊은 휴식",
     "period": "2025-07-01 ~ 2025-12-31",
     "benefit": [
       "아로마 트리트먼트 스파 1회 (2인)",
       "허브 티 & 목욕 솔트 세트",
-      "라운지 독서 티켓"
+      "라운지 독서 티켓",
+      "LIV 조식 포함 (2인)"
     ],
-    "roomType": [
-      "Lake Deluxe Room",
-      "Lake Corner Suite"
-    ],
-
-    "summaryBenefit": "2박 이상 시 스파 2회 + 허브 티 & 독서 라운지 포함",
+    "roomType": "Lake Deluxe Room",
+    "price": 395000,
+    
+    "summaryBenefit": "스파 1회 + 허브 티 & 독서 라운지 포함",
     "banner": "호수의 밤, 가장 깊은 휴식이 머무는 곳"
+  },
+  {
+    "id": "lake-suite-gourmet-package",
+    "title": "Lake Suite Gourmet Package",
+    "desc": "정찬과 함께하는 호숫가의 여름밤",
+    "period": "2025-07-10 ~ 2025-09-05",
+    "benefit": [
+      "LIV 여름 시그니처 디너 (2인)",
+      "허브 와인 (인당 1잔)",
+      "디저트 플래터 서비스",
+      "LIV 조식 포함 (2인)"
+    ],
+    "roomType": "Lake Corner Suite",
+    "price": 495000,
+    "message": "패키지 혜택은 2인 기준으로 제공됩니다. 3인 예약 시, 1인 추가에 대한 식사 또는 서비스는 별도 옵션에서 선택해 주세요.",
+    
+    "summaryBenefit": "미식 디너 + 와인 + 디저트까지 모두 포함된 여름밤",
+    "banner": "엘비 송어와 허브, 한여름을 맛보다"
   }
 ]
