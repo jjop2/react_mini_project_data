@@ -1,7 +1,7 @@
 [
   {
     "id": "summer-lake-escape",
-    "event": "Summer Lake Escape",
+    "title": "Summer Lake Escape",
     "period": "2025-07-01 ~ 2025-08-31",
 
     "summaryBenefit": "2박 이상 시 조식 포함 + 사우나 & 칵테일 혜택까지!",
@@ -9,7 +9,7 @@
   },
   {
     "id": "liv-summer-dining",
-    "event": "LIV 미식 디너 프로모션",
+    "title": "LIV 미식 디너 프로모션",
     "period": "2025-07-10 ~ 2025-09-05",
     
     "summaryBenefit": "사전 예약 시 여름 디너 코스 + 와인 10% 할인",
@@ -17,7 +17,7 @@
   },
   {
     "id": "wellness-stay-package",
-    "event": "Wellness Stay Package",
+    "title": "Wellness Stay Package",
     "period": "2025-07-01 ~ 2025-12-31",
 
     "summaryBenefit": "2박 이상 시 스파 2회 + 허브 티 & 독서 라운지 포함",
