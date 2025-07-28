@@ -2,18 +2,24 @@
   {
     "id": "lake-standard-room",
     "name": "Lake Standard Room",
+    "bed": "더블 또는 트윈",
+    "size": "24㎡",
     "price": 210000,
     "max": 2
   },
   {
     "id": "lake-deluxe-room",
     "name": "Lake Deluxe Room",
+    "bed": "더블 또는 트윈",
+    "size": "32㎡",
     "price": 295000,
     "max": 2
   },
   {
     "id": "lake-suite",
     "name": "Lake Corner Suite",
+    "bed": "더블 + 소파베드",
+    "size": "45㎡",
     "price": 390000,
     "max": 3
   }
