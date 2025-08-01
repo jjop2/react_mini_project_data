@@ -9,12 +9,13 @@
       "사우나 & 냉수욕 체험 (1회)",
       "LIV 조식 포함 (2인)"
     ],
+    "summaryBenefit": "칵테일 + 사우나 + 조식 포함",
     "roomType": "Lake Standard Room",
     "price": 265000,
     "max": 2,
 
-    "summaryBenefit": "조식 포함 + 사우나 & 칵테일 혜택까지!",
-    "banner": "자연 속으로 뛰어드는 가장 시원한 방법"
+    "banner": "자연 속으로 뛰어드는 가장 시원한 방법",
+    "bannerBenefit": "조식 포함 + 사우나 & 칵테일 혜택까지!"
   },
   {
     "id": "deluxe-wellness-stay",
@@ -27,12 +28,13 @@
       "라운지 독서 티켓",
       "LIV 조식 포함 (2인)"
     ],
+    "summaryBenefit": "스파 1회 + 허브 티 + 라운지 독서 티켓 + 조식 포함",
     "roomType": "Lake Deluxe Room",
     "price": 395000,
     "max": 2,
     
-    "summaryBenefit": "스파 1회 + 허브 티 & 독서 라운지 포함",
-    "banner": "호수의 밤, 가장 깊은 휴식이 머무는 곳"
+    "banner": "호수의 밤, 가장 깊은 휴식이 머무는 곳",
+    "bannerBenefit": "스파 1회 + 허브 티 & 독서 라운지 포함"
   },
   {
     "id": "lake-suite-gourmet-package",
@@ -45,12 +47,13 @@
       "디저트 플래터 서비스",
       "LIV 조식 포함 (2인)"
     ],
+    "summaryBenefit": "미식 디너 + 와인 + 디저트 + 조식 포함",
     "roomType": "Lake Corner Suite",
     "price": 495000,
     "max": 3,
     "message": "패키지 혜택은 2인 기준으로 제공됩니다. 3인 예약 시, 1인 추가에 대한 식사 또는 서비스는 별도 옵션에서 선택해 주세요.",
     
-    "summaryBenefit": "미식 디너 + 와인 + 디저트까지 모두 포함된 여름밤",
-    "banner": "엘비 송어와 허브, 한여름을 맛보다"
+    "banner": "엘비 송어와 허브, 한여름을 맛보다",
+    "bannerBenefit": "미식 디너 + 와인 + 디저트까지 모두 포함된 여름밤"
   }
 ]
